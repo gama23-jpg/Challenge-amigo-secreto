@@ -1,17 +1,17 @@
-<h1>CHALLENGE AMIGO SECRETO </h1>
+<h1> CHALLENGE AMIGO SECRETO 🎲</h1>
 
-<h2>Descripción:</h2>
+<h2> 🎁Descripción:</h2>
 
 <p>Proyecto que permite agregar nombres a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto".</p>
 
-<h2>Funcionalidades:</h2>
+<h2> ✨Funcionalidades:</h2>
 
-- Agregar nombres a una lista
+- Agregar nombres a una lista 
 - Mostrar lista de nombres ingresados
 - Realizar un sorteo aleatorio
 - Mostrar el resultado en pantalla
 
-<h3>Tecnologias utilizadas</h3>
+<h3> 🛠️Tecnologias utilizadas</h3>
 
 - HTML
 - CSS3
