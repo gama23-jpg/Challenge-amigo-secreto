@@ -1,4 +1,4 @@
-<h1><strong>CHALLENGE AMIGO SECRETO </strong></h1>
+<h1>CHALLENGE AMIGO SECRETO </h1>
 
 <h2>Descripción:</h2>
 
