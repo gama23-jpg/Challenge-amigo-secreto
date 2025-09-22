@@ -11,7 +11,7 @@
 - Realizar un sorteo aleatorio
 - Mostrar el resultado en pantalla
 
-<h2>Tecnologias utilizadas</h2>
+<h3>Tecnologias utilizadas</h3>
 
 - HTML
 - CSS3
