@@ -12,6 +12,7 @@
 - Mostrar el resultado en pantalla
 
 <h2>Tecnologias utilizadas</h2>
+
 - HTML
 - CSS3
 - JavaScript
