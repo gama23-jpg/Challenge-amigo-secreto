@@ -1,6 +1,6 @@
-<h1>CHALLENGE AMIGO SECRETO</h1>
+<h1><strong>CHALLENGE AMIGO SECRETO </strong></h1>
 
-<h2>Descripcion:</h2>
+<h2>Descripción:</h2>
 
 <p>Proyecto que permite agregar nombres a una lista y realizar un sorteo aleatorio para elegir un "amigo secreto".</p>
 
